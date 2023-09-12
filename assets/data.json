@@ -1,0 +1,51 @@
+[
+
+  {
+
+    "placeImage": "images/homos.jpg",
+    "placeName": "the homos",
+    "placeItems": ["Homos", "avocado salad", "naye", "roz_3a_jej", "taboule"],
+    "minOrder": 20
+  },
+
+  {
+    "placeImage": "images/images.jpeg",
+    "placeName": "the images",
+    "placeItems": ["Homos", "avocado salad", "naye", "roz_3a_jej", "taboule"],
+    "minOrder": 50
+
+  },
+
+  {
+
+    "placeImage": "images/taboule.jpg",
+    "placeName": "taboule",
+    "placeItems": ["Homos", "avocado salad", "naye", "roz_3a_jej", "taboule"],
+    "minOrder": 20
+  },
+
+
+  {
+
+    "placeImage": "images/naye.jpg",
+    "placeName": "the naye foods ",
+    "placeItems": ["Homos", "avocado salad", "naye", "roz_3a_jej", "taboule"],
+    "minOrder": 40
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
